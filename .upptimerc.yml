@@ -8,7 +8,7 @@ sites:
     url: https://plex.brettgardiner.net
 
 status-website:
-  cname: brettinternet.com
+  cname: status.brettinternet.com
   logoUrl: https://raw.githubusercontent.com/brettinternet/brettinternet.github.io/blob/source/src/images/logo.svg
   favicon: https://brettinternet.com/favicon.ico
   name: Status
