@@ -6,6 +6,11 @@ sites:
     url: https://brettinternet.com
   - name: Plex
     url: https://plex.brettgardiner.net
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Bookmarks
+    url: https://bookmarks.brettgardiner.net/u:brett
 
 status-website:
   cname: status.brettinternet.com
