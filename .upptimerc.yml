@@ -18,7 +18,7 @@ status-website:
   favicon: https://status.brettinternet.com/favicon.ico
   name: Brett's Status Page
   introTitle: "Brett's service monitoring"
-  introMessage: "Status page for [Brett](https://brettinternet)'s homelab services"
+  introMessage: "Status page for [Brett](https://brettinternet)'s [homelab](https://github.com/brettinternet/homelab) services"
   navbar:
     - title: Status
       href: /
