@@ -14,8 +14,8 @@ sites:
 
 status-website:
   cname: status.brettinternet.com
-  logoUrl: https://raw.githubusercontent.com/brettinternet/brettinternet.github.io/source/src/images/logo.svg
-  favicon: https://brettinternet.com/favicon.ico
+  logoUrl: https://status.brettinternet.com/logo.svg
+  favicon: https://status.brettinternet.com/favicon.ico
   name: Brett's Status Page
   introTitle: "Brett's service monitoring"
   introMessage: "Status page for [Brett](https://brettinternet)'s homelab services"
