@@ -11,8 +11,6 @@ sites:
       - 401
   - name: Bookmarks
     url: https://bookmarks.brettgardiner.net/u:brett
-  - name: Recipes
-    url: $RECIPE_SITE
 
 status-website:
   cname: status.brettinternet.com
