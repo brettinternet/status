@@ -22,7 +22,7 @@
     "url": "https://plex.brettgardiner.net",
     "icon": "https://favicons.githubusercontent.com/plex.brettgardiner.net",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 705,
     "timeDay": 14413,
     "timeWeek": 2510,
-    "timeMonth": 893,
+    "timeMonth": 902,
     "timeYear": 705,
     "dailyMinutesDown": {}
   },
