@@ -31,7 +31,7 @@
     "time": 734,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 301,
+    "timeMonth": 295,
     "timeYear": 734,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "https://bookmarks.brettgardiner.net/u:brett",
     "icon": "https://favicons.githubusercontent.com/bookmarks.brettgardiner.net",
     "slug": "bookmarks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 363,
-    "timeYear": 386,
+    "time": 385,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 328,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
